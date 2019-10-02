@@ -1,0 +1,12 @@
+{
+  "clinicas": [
+    {
+      "id": 1,
+      "icono": ""
+      "nombre": "Clinica Canela",
+      "especialidad": "Cardiologia",
+      "rate": 5,
+      "link":"/"
+    }
+  ]
+}
