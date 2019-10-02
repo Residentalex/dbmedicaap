@@ -2,7 +2,7 @@
   "clinicas": [
     {
       "id": 1,
-      "icono": ""
+      "icono": "",
       "nombre": "Clinica Canela",
       "especialidad": "Cardiologia",
       "rate": 5,
