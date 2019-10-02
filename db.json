@@ -1,6 +1,49 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "delectus aut autem",
-  "completed": false
+  "Clinicas": [
+    {
+      "id": 1,
+      "nombre": "Clinica Canela",
+      "rate": 5,
+      "imagen":""
+    },
+    {
+      "id": 2,
+      "nombre": "Hospital el buen samaritano",
+      "rate": 5,
+      "imagen":""
+    },
+    {
+      "id": 3,
+      "nombre": "Clinica Coral",
+      "rate": 4,
+      "imagen":""
+    },
+     {
+      "id": 4,
+      "nombre": "Centro de especialidades medicas",
+      "rate": 4,
+      "imagen":""
+    },
+     {
+      "id": 5,
+      "nombre": "Consultorio el buen vivir",
+      "rate": 3,
+      "imagen":""
+    }
+  ],
+  "Doctores": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "notificaciones": {
+    "name": "typicode"
+  }
 }
