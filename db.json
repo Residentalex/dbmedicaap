@@ -35,6 +35,12 @@
       "nombre": "Hospital Central Romana",
       "rate": 5,
       "imagen": ""
+    },
+    {
+      "id":7,
+      "nombre": "Clinica Dermatologia",
+      "rate": 2,
+      "imagen": ""
     }
   ],
   "Doctores": [
