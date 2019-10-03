@@ -52,13 +52,19 @@
   "Doctores": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "titulo":"Dr.",
+      "nombre":"Jose Ant.",
+      "apellido": "Soler Brito",
+      "especialidad":"Cardiologo",
+      "rate": 5
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "titulo":"Dra.",
+      "nombre":"Angela",
+      "apellido": "Guzman",
+      "especialidad":"Cardiologa especialista",
+      "rate": 5
     }
   ],
   "notificaciones": {
