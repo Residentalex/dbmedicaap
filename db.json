@@ -67,6 +67,15 @@
       "especialidad":"Cardiologa especialista",
       "rate": 5,
       "imagen":""
+    },
+    {
+      "id": 3,
+      "titulo":"Dr.",
+      "nombre":"Albert",
+      "apellido": "Jimenez Lopez",
+      "especialidad":"Pediatra",
+      "rate": 4,
+      "imagen":""
     }
   ],
   "notificaciones": {
