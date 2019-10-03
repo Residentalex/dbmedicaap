@@ -58,15 +58,7 @@
       "especialidad":"Cardiologo",
       "telefono":"(809)392-2685",
       "rate": 5,
-      "imagen":"",
-      "centros": [
-        { 
-          "id": 1
-        },
-        {
-          "id": 2
-        }
-      ]
+      "imagen":""
     },
     {
       "id": 2,
