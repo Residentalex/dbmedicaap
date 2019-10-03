@@ -29,7 +29,12 @@
       "nombre": "Consultorio el buen vivir",
       "rate": 3,
       "imagen":""
-    }
+    },
+    {
+      "id":6,
+      "nombre": "Hospital Central Romana",
+      "rate": 5,
+      "imagen": ""
   ],
   "Doctores": [
     {
