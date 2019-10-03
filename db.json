@@ -41,6 +41,12 @@
       "nombre": "Clinica Dermatologia",
       "rate": 2,
       "imagen": ""
+    },
+     {
+      "id":8,
+      "nombre": "Optica Oviedo",
+      "rate": 2,
+      "imagen": ""
     }
   ],
   "Doctores": [
