@@ -76,6 +76,24 @@
       "especialidad":"Pediatra",
       "rate": 4,
       "imagen":""
+    },
+    {
+      "id": 4,
+      "titulo":"Dr.",
+      "nombre":"Alexander",
+      "apellido": "Ubiera Santana",
+      "especialidad":"Neurologo",
+      "rate": 4,
+      "imagen":""
+    },
+    {
+      "id": 5,
+      "titulo":"Dra.",
+      "nombre":"Dionicia",
+      "apellido": "Lopez Shephard",
+      "especialidad":"Cardiologa",
+      "rate": 3,
+      "imagen":""
     }
   ],
   "notificaciones": {
